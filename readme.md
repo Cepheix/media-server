@@ -7,6 +7,7 @@ This project contains docker-compose file for running home media server.
 Solution is composed of several components:
 
 * radarr
+* sonarr
 * bazarr
 * jackett
 * qbittorrent
@@ -14,6 +15,10 @@ Solution is composed of several components:
 ## Radarr
 
 [Radarr](https://github.com/Radarr/Radarr) is the open source project for downloading and managing movies library. It is exposed on port: 7878
+
+## Sonarr
+
+[Sonarr](https://github.com/Sonarr/Sonarr) is the open source project for downloading and managing tv series library. It is exposed on port: 8989
 
 ## Bazarr
 
