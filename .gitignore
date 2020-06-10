@@ -4,3 +4,4 @@ jackett
 radarr
 sonarr
 jellyfin
+.env
