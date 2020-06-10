@@ -2,6 +2,10 @@
 
 This project contains docker-compose file for running home media server.
 
+# Configuration
+
+All necessary variables are provided in example.env file. Set them as environment variables or create .env file and store them there.
+
 # Components
 
 Solution is composed of several components:
